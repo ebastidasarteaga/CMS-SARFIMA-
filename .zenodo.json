@@ -1,0 +1,19 @@
+{
+  "title": "A Hybrid Conditional Mean-Shifted SARFIMA and Machine Learning Approach for Extreme River Flow Simulation and Prediction",
+  "creators": [
+    {
+      "name": "Doe, Jane",
+      "orcid": "0000-0002-1825-0097"
+    }
+  ],
+  "description": "R code for the article 'A Hybrid Conditional Mean-Shifted SARFIMA and Machine Learning Approach for Extreme River Flow Simulation and Prediction'. Data must be downloaded separately; see README.",
+  "license": "MIT",
+  "keywords": ["hydrology", "SARFIMA", "machine learning", "river flow", "climate change"],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5194/hessd-12-10289-2015",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
