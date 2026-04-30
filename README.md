@@ -1,4 +1,4 @@
-# CMS-SARFIMA: A Hybrid Conditional Mean-Shifted SARFIMA and Machine Learning Approach for Extreme River Flow Simulation and Prediction
+# CMS-SARFIMA: A R Script for Hybrid Conditional Mean-Shifted SARFIMA and Machine Learning Approach for Extreme River Flow Simulation and Prediction
 
 ## Overview
 This repository contains R code and documentation for the article:  
